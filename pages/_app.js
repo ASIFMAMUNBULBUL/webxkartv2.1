@@ -1,5 +1,4 @@
 import "../styles/bootstrap.min.css";
-import "animate.css";
 import "../styles/icofont.min.css";
 import "../styles/pe-icon-7-stroke.css";
 import "../node_modules/react-modal-video/css/modal-video.min.css";
